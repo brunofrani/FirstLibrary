@@ -1,3 +1,4 @@
 struct FirstLibrary {
-    var text = "Hello, World!"
+  public var text = "Hello, World!"
 }
+
