@@ -1,4 +1,9 @@
-struct FirstLibrary {
-  public var text = "Hello, World!"
-}
 
+
+open class Person {
+  public var name: String
+  
+  init(name: String) {
+    self.name = name
+  }
+}
